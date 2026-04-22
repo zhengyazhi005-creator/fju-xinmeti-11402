@@ -1,0 +1,6 @@
+node_modules/
+gallery/node_modules/
+gallery/package.json
+gallery/package-lock.json
+gallery/screenshot.mjs
+list.tsv
